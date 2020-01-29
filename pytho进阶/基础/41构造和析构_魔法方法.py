@@ -9,5 +9,4 @@
 2020/1/29 11:49   MouleLin     
 '''    
 
- 
-import numpy
+print()
