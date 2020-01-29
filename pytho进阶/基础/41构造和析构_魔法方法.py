@@ -9,4 +9,4 @@
 2020/1/29 11:49   MouleLin     
 '''    
 
-print()
+print('12')
